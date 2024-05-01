@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-website/static/css/main.570c16e6.css",
-    "main.js": "/Portfolio-website/static/js/main.77a19d64.js",
+    "main.css": "/Portfolio-website/static/css/main.416e825e.css",
+    "main.js": "/Portfolio-website/static/js/main.35e91ae6.js",
     "static/media/Netflix.png": "/Portfolio-website/static/media/Netflix.497c50fcb14367c5204f.png",
     "static/media/E-Commerce.png": "/Portfolio-website/static/media/E-Commerce.b900eb671a7a0ab16df7.png",
     "static/media/logo1.png": "/Portfolio-website/static/media/logo1.7ed42caf1761f7568a18.png",
@@ -11,11 +11,11 @@
     "static/media/css.png": "/Portfolio-website/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Portfolio-website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio-website/index.html",
-    "main.570c16e6.css.map": "/Portfolio-website/static/css/main.570c16e6.css.map",
-    "main.77a19d64.js.map": "/Portfolio-website/static/js/main.77a19d64.js.map"
+    "main.416e825e.css.map": "/Portfolio-website/static/css/main.416e825e.css.map",
+    "main.35e91ae6.js.map": "/Portfolio-website/static/js/main.35e91ae6.js.map"
   },
   "entrypoints": [
-    "static/css/main.570c16e6.css",
-    "static/js/main.77a19d64.js"
+    "static/css/main.416e825e.css",
+    "static/js/main.35e91ae6.js"
   ]
 }
