@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio-website/static/css/main.f7331db2.css",
-    "main.js": "/Portfolio-website/static/js/main.0df356ca.js",
+    "main.js": "/Portfolio-website/static/js/main.e58e67df.js",
     "static/media/Netflix.png": "/Portfolio-website/static/media/Netflix.497c50fcb14367c5204f.png",
     "static/media/E-Commerce.png": "/Portfolio-website/static/media/E-Commerce.b900eb671a7a0ab16df7.png",
+    "static/media/My-music-player.png": "/Portfolio-website/static/media/My-music-player.0bc7cc3691a6dc28828e.png",
+    "static/media/Age-calculator.png": "/Portfolio-website/static/media/Age-calculator.5b460ffee51038533229.png",
     "static/media/logo1.png": "/Portfolio-website/static/media/logo1.7ed42caf1761f7568a18.png",
     "static/media/github.png": "/Portfolio-website/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/Portfolio-website/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -12,10 +14,10 @@
     "static/media/javascript.png": "/Portfolio-website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio-website/index.html",
     "main.f7331db2.css.map": "/Portfolio-website/static/css/main.f7331db2.css.map",
-    "main.0df356ca.js.map": "/Portfolio-website/static/js/main.0df356ca.js.map"
+    "main.e58e67df.js.map": "/Portfolio-website/static/js/main.e58e67df.js.map"
   },
   "entrypoints": [
     "static/css/main.f7331db2.css",
-    "static/js/main.0df356ca.js"
+    "static/js/main.e58e67df.js"
   ]
 }
